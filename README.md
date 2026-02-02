@@ -137,13 +137,13 @@ Improve conversion efficiency through better targeting and landing page optimiza
 quarterly-sales-dashboard-2024/
 │
 ├── datasets/
-│   └── Cleaned_data.csv        # Cleaned dataset (if shareable)
+│   └── Quarterly_Sales_Dashboard.xlsx
 │
 ├── reports/
-│   └── Quarterly_Sales_Dashboard_2024.pbix
+│   └── Campaign_Performance_Analysis.pbix
 │
 ├── images/
-│   └── dashboard.png           # Final dashboard screenshot
+│   └── Campaign_Performance_Dashboard.png           
 │
 ├── README.md                   # Project documentation
 ├── LICENSE
