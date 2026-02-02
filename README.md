@@ -1,4 +1,4 @@
-📊 # Quarterly Sales Dashboard 2024 (Sept–Dec)
+# 📊  Quarterly Sales Dashboard 2024 (Sept–Dec)
 Marketing Performance Analytics | KPI Tracking | Business Insights
 
 Welcome to the Quarterly Sales Dashboard 2024 repository! 🚀
@@ -6,7 +6,7 @@ This project presents a business-focused Power BI dashboard built to analyze sal
 
 The dashboard is designed from a Business Analyst perspective, emphasizing performance efficiency, cost optimization, and actionable insights rather than raw numbers alone.
 
-🏗️ # Project Workflow
+# 🏗️  Project Workflow
 
 This project follows a structured, end-to-end analytics workflow:
 
@@ -46,7 +46,7 @@ Used icons and indicators for quick performance interpretation
 
 Included a Key Insight section for business recommendations
 
-📖 Project Overview
+# 📖 Project Overview
 
 This project focuses on:
 
@@ -58,7 +58,7 @@ Trend Analysis for monthly sales and spend
 
 Decision Support through insights and benchmarks
 
-🎯 The dashboard helps stakeholders quickly identify:
+# 🎯 The dashboard helps stakeholders quickly identify:
 
 High-performing vs low-performing campaigns
 
@@ -66,7 +66,7 @@ Cost inefficiencies
 
 Areas for optimization and growth
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 🟦 Power BI Desktop – Data modeling, DAX, dashboard creation
 
@@ -92,7 +92,7 @@ Areas for optimization and growth
 
 ⚠️ ACoS – Advertising Cost of Sales
 
-🎯 Target Benchmarks
+# 🎯 Target Benchmarks
 
 Industry-standard benchmarks were used to evaluate performance:
 
@@ -104,7 +104,7 @@ Industry-standard benchmarks were used to evaluate performance:
 
 ℹ️ CTR ≥ 0.40% (reference benchmark)
 
-📊 Dashboard Insights
+# 📊 Dashboard Insights
 
 The final dashboard provides visibility into:
 
@@ -116,12 +116,12 @@ Marketing efficiency using CPC, ROAS, and ACoS
 
 Performance indicators with visual arrows and legends
 
-💡 Key Insight
+# 💡 Key Insight
 
 📉 High ACoS and low ROAS indicate inefficient ad spend.
 Despite a healthy CTR, conversions are weak, leading to poor return on investment.
 
-🛠️ Recommendation
+# 🛠️ Recommendation
 
 Optimize or pause low-performing campaigns
 
@@ -129,10 +129,10 @@ Reallocate budget toward high-ROAS campaigns
 
 Improve conversion efficiency through better targeting and landing page optimization
 
-🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 (Add dashboard.png screenshot here)
 
-📂 Repository Structure
+# 📂 Repository Structure
 quarterly-sales-dashboard-2024/
 │
 ├── datasets/
@@ -148,7 +148,7 @@ quarterly-sales-dashboard-2024/
 ├── LICENSE
 └── .gitignore
 
-🚀 How to Use
+# 🚀 How to Use
 
 Download the .pbix file
 
@@ -158,7 +158,7 @@ Use slicers to filter by Month and Campaign
 
 Analyze KPIs and review the Key Insight section
 
-🧑‍💼 About the Project
+# 🧑‍💼 About the Project
 
 This project demonstrates:
 
@@ -172,7 +172,7 @@ Decision-making support through analytics
 
 Ideal for Business Analyst / Data Analyst portfolios.
 
-🌟 Author
+# 🌟 Author
 
 Radhika
 📌 Aspiring Business Analyst / Data Analyst
