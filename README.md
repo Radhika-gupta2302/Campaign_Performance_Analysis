@@ -1,4 +1,4 @@
-📊 Quarterly Sales Dashboard 2024 (Sept–Dec)
+📊 # Quarterly Sales Dashboard 2024 (Sept–Dec)
 Marketing Performance Analytics | KPI Tracking | Business Insights
 
 Welcome to the Quarterly Sales Dashboard 2024 repository! 🚀
@@ -6,7 +6,7 @@ This project presents a business-focused Power BI dashboard built to analyze sal
 
 The dashboard is designed from a Business Analyst perspective, emphasizing performance efficiency, cost optimization, and actionable insights rather than raw numbers alone.
 
-🏗️ Project Workflow
+🏗️ # Project Workflow
 
 This project follows a structured, end-to-end analytics workflow:
 
