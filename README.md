@@ -130,7 +130,8 @@ Reallocate budget toward high-ROAS campaigns
 Improve conversion efficiency through better targeting and landing page optimization
 
 # 🖼️ Dashboard Preview
-(Add dashboard.png screenshot here)
+<img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/667f2e5d-1b30-46df-8376-d63865cc44da" />
+
 
 # 📂 Repository Structure
 quarterly-sales-dashboard-2024/
